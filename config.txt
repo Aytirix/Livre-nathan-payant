@@ -1,0 +1,10 @@
+[LIEN]
+
+; exemple : https://biblio.nathan.fr/epubs/NATHAN/bibliomanuels/distrib_gp/2/2/11338/online/OEBPS/Chapter_001/Page_00001.xhtml
+url = none
+
+;Le nombre de page du livre que vous souaithez télécharger
+nombre de page au total du livre = 0
+
+; soit y pour l'afficher ou n pour le cacher
+afficher le driver = y
