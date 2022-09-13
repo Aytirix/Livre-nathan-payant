@@ -20,8 +20,8 @@ while True:
     # caractères interdits dans les noms de fichier
     interdit = ["<", ">", ":", '"', "/", "\\", "|", "?", "*","\"","CON","PRN","AUX","NUL","COM1","COM2","COM3","COM4","COM5","COM6","COM7","COM8","COM9","LPT1","LPT2","LPT3","LPT4","LPT5","LPT6","LPT7","LPT8","LPT9","."," ","\t",'"',"'"]
     for i in interdit:
-        titre = titre.replace(i, "")
-    if titre != "":
+        titre_livre = titre_livre.replace(i, "")
+    if titre_livre != "":
         break
     else:
         print("Le titre n'est pas valide")
