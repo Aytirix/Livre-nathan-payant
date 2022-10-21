@@ -1,5 +1,3 @@
-#comparer pour trouver le livre en plus grand
-# https://biblio.nathan.fr/epubs/NATHAN/bibliomanuels/distrib_gp/1/8/7995/online/OEBPS/TOC.xhtml (gratuit)
 # https://biblio.nathan.fr/epubs/NATHAN/bibliomanuels/distrib_gp/1/8/7725/online/OEBPS/TOC.xhtml (payant)
 
 from ast import expr_context
