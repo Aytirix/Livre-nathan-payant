@@ -1,5 +1,5 @@
-Programme pour télécharger n'importe quelle livre d'édition Nathan.
+Programme permettant de télécharger n'importe quel livre édité par Nathan.
 
+PS : La faille de sécurité utilisée par mon programme a été corrigée par Nathan.
 
-
-/!\ Ceci est seulement à but éducatif et est totalement illégal de ne pas payer les livres !/!\
+/!\ Ce programme est uniquement à des fins éducatives et il est totalement illégal de ne pas payer pour les livres ! /!
